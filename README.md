@@ -4,5 +4,9 @@
 Install nodemon
 
 setup-
-Run - node seeds/index.js
-Run - nodemon app.js
+For connecting Database run-
+node seeds/index.js
+
+
+For running app-
+nodemon app.js
